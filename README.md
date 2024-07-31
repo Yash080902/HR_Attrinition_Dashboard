@@ -1,1 +1,1 @@
-# HR_Attrinition_Dashboard
+# HR_Attrition_Dashboard
